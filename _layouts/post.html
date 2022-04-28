@@ -1,11 +1,12 @@
 --- layout: default --- {% include base_path %} {% assign author = site.authors[page.author] %} {% if page.image %}
+<div itemscope itemtype="https://schema.org/CreativeWork"></div>
 <meta itemprop='og:image' content='{{ base_path }}{{ page.image }}'> {% endif %} {% include post-hero.html %}
 
 <div class='o-wrapper'>
     <div class='o-grid'>
         <div class='o-grid__col o-grid__col--2-3-m'>
-            <div itemscope itemtype="https://schema.org/Article"></div>
-            <article itemprop="body" class='c-post'>
+
+            <article itemprop="text" class='c-post'>
 
                 <div class='c-content'>
                     {{ content }}
