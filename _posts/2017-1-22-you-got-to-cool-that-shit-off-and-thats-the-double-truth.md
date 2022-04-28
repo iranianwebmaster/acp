@@ -44,7 +44,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 چند سالی است که در بازار ایران چوب‌هایی به نام ترمووود ورود پیدا کرده‌اند. از این چوب‌ها در فضای بیرونی و داخلی ساختمان‌ها استفاده می‌شود. از موارد استفاده از ترممود به طور مختصر می‌توان به کف پوش‌ها، نرده‌ها، حمام، سونا، زمین‌های بازی، پنجره‌ها، دیوارها و … نام برد.
 
-\[caption id="attachment\_894" align="aligncenter" width="750"\][![لیست قیمت ترمووود](https://composite-isfahan.ir/wp-content/uploads/2022/04/thermowood-price-list.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/thermowood-price-list.webp) عکس نمای چوب ترمو\[/caption\]
+\[caption id="attachment\_894" align="aligncenter" width="750"\][![لیست قیمت ترمووود](/wp-content/uploads/2022/04/thermowood-price-list.webp)](/wp-content/uploads/2022/04/thermowood-price-list.webp) عکس نمای چوب ترمو\[/caption\]
 
 ترمووود قیمت
 
@@ -59,7 +59,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 فرایند حرارت‌دهی چوب ترمو بین 48 تا 96 ساعت به طول می انجامد که این زمان بسته به نوع چوب ، ضخامت و رطوبت اولیه‌ی چوب متغیر است.کلاً برای تولید چوب ترمو از جنس زبان گنجشک ([Fraxinus excelsior](https://fa.wikipedia.org/wiki/%D8%B2%D8%A8%D8%A7%D9%86_%DA%AF%D9%86%D8%AC%D8%B4%DA%AF_(%D8%B3%D8%B1%D8%AF%D9%87))) و چوب گونه کاج([PINE](https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%AC)) استفاده می شود.ترموود را به عنوان محصولی از کشور فنلاند می شناسند، اما این محصول در کانادا و آلمان نیز به طور گسترده تولید می‌گردد.برای تولید این محصول از روش گرما و بدون مواد شیمیایی استفاده می‌شود.
 
-\[caption id="attachment\_865" align="aligncenter" width="750"\][![ترموود قیمت](https://composite-isfahan.ir/wp-content/uploads/2022/04/ترموود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/ترموود.webp) عکس چوب ترمو\[/caption\]
+\[caption id="attachment\_865" align="aligncenter" width="750"\][![ترموود قیمت](/wp-content/uploads/2022/04/ترموود.webp)](/wp-content/uploads/2022/04/ترموود.webp) عکس چوب ترمو\[/caption\]
 
 ترموود از نظر ابعادی پایدار است و در برابر پوسیدگی مقاوم و بدون رزین است. می‌توان از آن در داخل یا خارج از ساختمان در هر شرایط آب و هوایی استفاده نمود. ترموود یک محصول طبیعی غیر سمی می‌باشد که به راحتی نصب و راه اندازی می‌شود.
 
@@ -69,7 +69,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 ترموود تبریز
 
-\[caption id="attachment\_868" align="aligncenter" width="750"\][![thermowood sauna](https://composite-isfahan.ir/wp-content/uploads/2022/04/ترموود-سونا.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/ترموود-سونا.webp) عکس سونا با چوب ترمو\[/caption\]
+\[caption id="attachment\_868" align="aligncenter" width="750"\][![thermowood sauna](/wp-content/uploads/2022/04/ترموود-سونا.webp)](/wp-content/uploads/2022/04/ترموود-سونا.webp) عکس سونا با چوب ترمو\[/caption\]
 
 چوب ترمو اصلاح شده از نظر حرارت و دارای رنگ قهوه ای زیبایی است که پس از رنگ آمیزی در برابر اشعه ماوراء بنفش محافظت می‌کند و تا درصدی ترموود را در مقابل شرایط جوی مقاوم تر می‌کند.
 
@@ -84,10 +84,10 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 *   در مقایسه با متریال های مشابه و هم‌تراز وزن کم و سبکی دارد ( در اثر کاهش رطوبت چوب، وزن آن نیز کم می‌گردد. همین موضوع ترموود را به یکی از مصالح سبک و پرکاربرد تبدیل می‌کند که استفاده از آن در هر قسمت از ساختمان، می‌تواند بار مرده‌ی وارده را کمتر نماید.
 *   در حد استاندارد نیازهای طبیعی انسان ، رطوبت محیط را حفظ می‌کند ( عدم واکنش در برابر رطوبت : بعد از این که چوب در معرض دمای بالا قرار گرفت و تبدیل به ترمووود شد ، رطوبت آن به 4 تا 63 درصد می‌رسد. در واقع رطوبت ترموود ، نصف چوب طبیعی است و این ، عاملی برای داشتن عمر طولانی‌تر به حساب می‌آید.
 *   تغییرات دما در محیط به آرامی صورت می گیرد (سرما به گرما و گرما به سرما)
-*   سرعت نصب بالا و با کمترین کثیفی ( نصب ترمووود مانند [نمای کامپوزیت](https://composite-isfahan.ir/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%a7%d8%b5%d9%81%d9%87%d8%a7%d9%86/) روی بستری از پروفیل‌ها انجام می‌شود به طوری که قطعات آن قابل جداسازی هستند. همچنین نگهداری از آن با استفاده از رنگ مخصوصی است که طی بازه‌های زمانی مشخص روی سطوح زده می‌شود.
+*   سرعت نصب بالا و با کمترین کثیفی ( نصب ترمووود مانند [نمای کامپوزیت](/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%a7%d8%b5%d9%81%d9%87%d8%a7%d9%86/) روی بستری از پروفیل‌ها انجام می‌شود به طوری که قطعات آن قابل جداسازی هستند. همچنین نگهداری از آن با استفاده از رنگ مخصوصی است که طی بازه‌های زمانی مشخص روی سطوح زده می‌شود.
 *   غیر سمی بودن ( به دلیل این که برای تولید ترمووود از مواد شیمیایی استفاده نمی‌شود، thermowood تاثیر مخربی از این لحاظ بر طبیعت و محیط پیرامون ندارد. فرایند تولید آن با استفاده از بخار و حرارت است و در اثر همین بخار ، ساختار درونی چوب متحول شده و بافت آن منسجم‌تر شده و در نتیجه مقاوم‌تر می‌شود.
 *   نبود صمغ در ترموود ( صمغ موجود در چوب طبیعی در حین فرایند ترمو کاملا از بین می‌رود. این فرایند علاوه بر تاثیر در مقاومت چوب ، باعث زیبایی بیشتر آن نیز می‌شود.
-*   مقاوم تر در برابر آتش ، آب، طوفان و برودت ، نسبت به چوب‌های دیگر![انواع چوب ترمووود](https://composite-isfahan.ir/wp-content/uploads/2022/04/انواع-چوب-ترموود.webp)
+*   مقاوم تر در برابر آتش ، آب، طوفان و برودت ، نسبت به چوب‌های دیگر![انواع چوب ترمووود](/wp-content/uploads/2022/04/انواع-چوب-ترموود.webp)
 *   طراحی اکولوژیکی در جهت حفظ سلامت محیط زیست
 *   انعطاف پذیری و مقاوم در برابر فشارهای بیرونی (مانند زلزله)
 *   عایق عالی برای صدا (به علت نگهداری هوا در منافذ خود) چوب از لحاظ جذب صدا یک عنصر ایده آل به حساب می آید. به همین دلیل اکو و سر و صدا را جذب می‌کند ، به همین دلیل از چوب در ساخت سازهای موسیقی و سالن‌های کنسرت استفاده می‌شود.
@@ -104,7 +104,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
     
     قیمت هر متر مربع ترموود
     
-    \[caption id="attachment\_880" align="aligncenter" width="750"\][![انواع چوب ترمووود](https://composite-isfahan.ir/wp-content/uploads/2022/04/انواع-چوب-ترمووود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/انواع-چوب-ترمووود.webp) عکس انواع چوب ترمووود\[/caption\]
+    \[caption id="attachment\_880" align="aligncenter" width="750"\][![انواع چوب ترمووود](/wp-content/uploads/2022/04/انواع-چوب-ترمووود.webp)](/wp-content/uploads/2022/04/انواع-چوب-ترمووود.webp) عکس انواع چوب ترمووود\[/caption\]
 
 چوب فنلاندی از درخت‌های کاج و صنوبر تولید می‌شود که انواع مختلفی هم دارد. اما نکته‌ای که هنگام خرید آن بیشتر مورد توجه قرار می‌گیرد ، تنوع رنگ آن است.
 
@@ -119,7 +119,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 7.  پالیساندری (سیاه مایل به بنفش تیره)
 8.  سکویایی (چوب قرمزرنگ)
 
-\[caption id="attachment\_869" align="aligncenter" width="750"\][![مزایای چوب ترموود](https://composite-isfahan.ir/wp-content/uploads/2022/04/مزایای-ترمووود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/مزایای-ترمووود.webp) عکس چوب ترمو | ابزار خورده جهت نصب\[/caption\]
+\[caption id="attachment\_869" align="aligncenter" width="750"\][![مزایای چوب ترموود](/wp-content/uploads/2022/04/مزایای-ترمووود.webp)](/wp-content/uploads/2022/04/مزایای-ترمووود.webp) عکس چوب ترمو | ابزار خورده جهت نصب\[/caption\]
 
 کاربرد چوب ترمو
 ---------------
@@ -145,7 +145,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 *   استخر و سونا
 *   درب و پنجره
 
-\[caption id="attachment\_874" align="aligncenter" width="750"\][![کاربرد های چوب ترمو](https://composite-isfahan.ir/wp-content/uploads/2022/04/کاربرد-چوب-ترمو.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/کاربرد-چوب-ترمو.webp) نمای ترموود زیبا\[/caption\]
+\[caption id="attachment\_874" align="aligncenter" width="750"\][![کاربرد های چوب ترمو](/wp-content/uploads/2022/04/کاربرد-چوب-ترمو.webp)](/wp-content/uploads/2022/04/کاربرد-چوب-ترمو.webp) نمای ترموود زیبا\[/caption\]
 
 ### معایب ترمووود
 
@@ -155,7 +155,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 *   احتمال سوختن چوب بر اثر شعله و حرارت زیاد
 *   ممکن است بوی چوب در محیط مرطوب ، پس از کثیف شدن ، آزار دهنده شود
 
-\[caption id="attachment\_875" align="aligncenter" width="750"\][![معایب نمای ترموود](https://composite-isfahan.ir/wp-content/uploads/2022/04/معایب-ترموود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/معایب-ترموود.webp) عکس پارکت با چوب ترمو\[/caption\]
+\[caption id="attachment\_875" align="aligncenter" width="750"\][![معایب نمای ترموود](/wp-content/uploads/2022/04/معایب-ترموود.webp)](/wp-content/uploads/2022/04/معایب-ترموود.webp) عکس پارکت با چوب ترمو\[/caption\]
 
 #### رنگ ترمووود
 
@@ -171,7 +171,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 در موارد خاص یا به درخواست خود مشتری ممکن است چوب ترمو را رنگ کنند یا آن را جلا دهند تا مقاومت و ماندگاری ترموود بیشتر گردد. لازم به ذکر است که بگوییم اگر چوب رنگ نشود ، به مرور زمان و به صورت طبیعی رنگ آن به سمت نقره‌ای خواهد رفت که البته این رنگ هم طرفداران مخصوص به خودش را دارد.
 
-\[caption id="attachment\_876" align="aligncenter" width="750"\][![رنگ زدن چوب ترمو](https://composite-isfahan.ir/wp-content/uploads/2022/04/رنگ-ترموود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/رنگ-ترموود.webp) رنگ زدن چوب ترمو\[/caption\]
+\[caption id="attachment\_876" align="aligncenter" width="750"\][![رنگ زدن چوب ترمو](/wp-content/uploads/2022/04/رنگ-ترموود.webp)](/wp-content/uploads/2022/04/رنگ-ترموود.webp) رنگ زدن چوب ترمو\[/caption\]
 
 #### ترموود تا چه حرارتی را تحمل می‌کند؟
 
@@ -186,7 +186,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 همچنین از دیگر روش‌هایی که انجام می‌شود ، چوب را به وسیله گاز نیتروژن ، بخار آب یا روغن داغ حرارت می‌دهند. چوب‌ ترمو مقاومت خوبی در مقابل شرایط نامساعد مانند رطوبت و آفتاب شدید دارد. البته اگر در فرآیند فرآوری کردن این مدل چوب استانداردهای فراگیر رعایت گردد.
 
-\[caption id="attachment\_882" align="aligncenter" width="750"\][![سونا چوب](https://composite-isfahan.ir/wp-content/uploads/2022/04/استخر-ترموود-سونا.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/استخر-ترموود-سونا.webp) عکس نمای سونا با چوب\[/caption\]
+\[caption id="attachment\_882" align="aligncenter" width="750"\][![سونا چوب](/wp-content/uploads/2022/04/استخر-ترموود-سونا.webp)](/wp-content/uploads/2022/04/استخر-ترموود-سونا.webp) عکس نمای سونا با چوب\[/caption\]
 
   
 ترمووود در اثر مقاومت بالا در برابر در برابر آفتاب و رطوبت بیشتر در نمای ساختمان استفاده می‌گردد. البته همان طور که در بالا هم به آن اشاره کردیم، می‌توان از ترمووود در سونا هم به استفاده نمود.
@@ -203,7 +203,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 2.  به طور تساعدی و در برهه زمانی 6 ساعت دما را به 130 درجه‌ی سانتی‌گراد افزایش داده و در این مرحله رطوبت چوب کاملا از بین خواهد رفت.
 3.  مرحله سوم در طی دو الی سه ساعت دما را به 255 درجه‌ی سانتی گراد می‌برند که البته این دما بستگی به مدل چوب دارد که حدودا 2 الی 3 ساعت این مراحل ادامه پیدا می‌کند.
 
-\[caption id="attachment\_883" align="aligncenter" width="750"\][![کارخانه ترموود](https://composite-isfahan.ir/wp-content/uploads/2022/04/کارخانه-ترموود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/کارخانه-ترموود.webp) کارخانه چوب ترموود\[/caption\]
+\[caption id="attachment\_883" align="aligncenter" width="750"\][![کارخانه ترموود](/wp-content/uploads/2022/04/کارخانه-ترموود.webp)](/wp-content/uploads/2022/04/کارخانه-ترموود.webp) کارخانه چوب ترموود\[/caption\]
 
 در تمامی این فرآیند از بخار برای جلوگیری از سوختن و یا ترک برداشتن چوب استفاده می‌شود. همچنین در تمامی فرآیند کنترل مداوم صورت می‌گیرد الی به هیچ عنوان چوب نسوزد یا به زغال تبدیل نگردد.در ادامه‌ی کار پس از گذشت 24 ساعت از شروع بخار دهی و گرمادهی، دمای مخزن را آرام آرام کم می‌کنند که این کاهش دما با استفاده از آب‌پاشی صورت می‌گیرد. در نهایت ترموود پس از گذشت 42 ساعت آماده می‌باشد.  
   
@@ -245,7 +245,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 4.  سونا و ساخت اسباب اثاثیه داخل ساختمان
 5.  دیوار و نمای TV
 
-\[caption id="attachment\_884" align="aligncenter" width="750"\][![نمای داخلی ساختمان با چوب ترموود](https://composite-isfahan.ir/wp-content/uploads/2022/04/نمای-داخلی-ساختمان-با-چوب-ترموود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/نمای-داخلی-ساختمان-با-چوب-ترموود.webp) عکس نمای داخلی ساختمان با چوب دیوار ترموود\[/caption\]
+\[caption id="attachment\_884" align="aligncenter" width="750"\][![نمای داخلی ساختمان با چوب ترموود](/wp-content/uploads/2022/04/نمای-داخلی-ساختمان-با-چوب-ترموود.webp)](/wp-content/uploads/2022/04/نمای-داخلی-ساختمان-با-چوب-ترموود.webp) عکس نمای داخلی ساختمان با چوب دیوار ترموود\[/caption\]
 
 نمای خارجی ساختمان با چوب ترموود
 --------------------------------
@@ -264,7 +264,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 ترموود تبریز
 
-\[caption id="attachment\_886" align="aligncenter" width="750"\][![نمای ترموود](https://composite-isfahan.ir/wp-content/uploads/2022/04/نمای-ترموود.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/نمای-ترموود.webp) نمای ترموود\[/caption\]
+\[caption id="attachment\_886" align="aligncenter" width="750"\][![نمای ترموود](/wp-content/uploads/2022/04/نمای-ترموود.webp)](/wp-content/uploads/2022/04/نمای-ترموود.webp) نمای ترموود\[/caption\]
 
 معمولا محصولات چوبی که برای سقف یا بام ساختمان استفاده می‌شود، [چوب سدر](https://fa.wikipedia.org/wiki/%D8%B3%D8%AF%D8%B1) می‌باشد به این علت که چوب سدر به طور طبیعی در مقابل آفتاب و بارندگی از سایرین چوب‌ها مقاوم‌تر است. البته از روش‌های مختلفی می‌توان برای افزایش مقاومت و ماندگاری چوب استفاده نمود.
 
@@ -285,7 +285,7 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 ترموود قیمت
 
-\[caption id="attachment\_889" align="aligncenter" width="750"\][![زیرسازی ترموود پارکت](https://composite-isfahan.ir/wp-content/uploads/2022/04/زیرسازی-ترموود-پارکت.webp)](https://composite-isfahan.ir/wp-content/uploads/2022/04/زیرسازی-ترموود-پارکت.webp) عکس زیرسازی کفپوش با چوب ترمو\[/caption\]
+\[caption id="attachment\_889" align="aligncenter" width="750"\][![زیرسازی ترموود پارکت](/wp-content/uploads/2022/04/زیرسازی-ترموود-پارکت.webp)](/wp-content/uploads/2022/04/زیرسازی-ترموود-پارکت.webp) عکس زیرسازی کفپوش با چوب ترمو\[/caption\]
 
 در حالت عادی ، جهت زیرسازی فلزی نمای ترموود از قوطی 40 در 40 استفاده می‌شود. فاصله شبکه های فلزی در زیر نمای ترموود نیز نباید کمتر از 50 سانتی متر باشد.اگر نمای سیمانی زیر نمای ترمووود ، سیمان صاف با ضخامت بیشتر از 4 سانتیمتر داشته باشد، زیرسازی فلزی لازم ندارد و می‌توان چوب‌های زیرسازی را مستقیما بر روی سیمان پیچ و رول پلاک نمود. در نتیجه هزینه کاهش پیدا می‌کند.
 
@@ -344,4 +344,4 @@ Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas di
 
 ترموود قیمت
 
-[قیمت نمای کامپوزیت](https://composite-isfahan.ir/%d9%82%db%8c%d9%85%d8%aa-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%87%d8%b1-%d9%85%d8%aa%d8%b1-%d9%85%d8%b1%d8%a8%d8%b9-%d9%88%d8%b1/) [عکس نمای کامپوزیت ساختمان](https://composite-isfahan.ir/%d8%b9%da%a9%d8%b3-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d9%85%d8%b3%da%a9%d9%88%d9%86%db%8c-%d9%88%db%8c%d9%84%d8%a7/) [اجرای نمای کامپوزیت در تهران](https://composite-isfahan.ir/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%af%d8%b1-%d8%aa%d9%87%d8%b1%d8%a7%d9%86-%d9%82%db%8c%d9%85%d8%aa-%d9%85%d8%aa%d8%b1/) [قیمت ورق کامپوزیت](https://composite-isfahan.ir/%d9%82%db%8c%d9%85%d8%aa-%d9%88%d8%b1%d9%82-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d9%81%d8%b1%d9%88%d8%b4-%d8%ae%d8%b1%db%8c%d8%af-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d8%b5%d9%81%d9%87/) [اجرای نمای کامپوزیت](https://composite-isfahan.ir/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%a7%d8%b5%d9%81%d9%87%d8%a7%d9%86/)
+[قیمت نمای کامپوزیت](/%d9%82%db%8c%d9%85%d8%aa-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%87%d8%b1-%d9%85%d8%aa%d8%b1-%d9%85%d8%b1%d8%a8%d8%b9-%d9%88%d8%b1/) [عکس نمای کامپوزیت ساختمان](/%d8%b9%da%a9%d8%b3-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d9%85%d8%b3%da%a9%d9%88%d9%86%db%8c-%d9%88%db%8c%d9%84%d8%a7/) [اجرای نمای کامپوزیت در تهران](/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%af%d8%b1-%d8%aa%d9%87%d8%b1%d8%a7%d9%86-%d9%82%db%8c%d9%85%d8%aa-%d9%85%d8%aa%d8%b1/) [قیمت ورق کامپوزیت](/%d9%82%db%8c%d9%85%d8%aa-%d9%88%d8%b1%d9%82-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d9%81%d8%b1%d9%88%d8%b4-%d8%ae%d8%b1%db%8c%d8%af-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d8%b5%d9%81%d9%87/) [اجرای نمای کامپوزیت](/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%a7%d8%b5%d9%81%d9%87%d8%a7%d9%86/)
