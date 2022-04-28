@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: درباره ما
 image: '/images/pages/1.jpg'
 ---
 
-You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Nubia is designed for you. Nubia focus on showing your content in a clean and simple way, focus on images, typography, and white space.
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+به نام یگانه معمار هستی
+ شرکت اصفهان کامپوزیت یکی از با تجربه ترین مجری نماهای مدرن می باشد که با شناخت صحیح نیاز مشتریان وبهره گیری از دانش روز دنیا توانسته است حضوری متفاوت در راستای مشاوره،طراحی و اجرای نماهای کامپوزیت آلومینیوم،لامل و شیشه فریم لس با تنوع رنگی قابل توجه و کیفیت بالا و منحصر به فرد داشته باشد. به پشتوانه تجربه و توان فنی مدیریت و کادر متخصص و مجرب این شرکت و چندین سال سابقه اجرا و خدمات فنی مهندسی نما توانسته ایم پروژه های موفقی را در رزومه خود داشته باشیم.مایه مباهات این شرکت است که نام پروژه های بزرگ همچون نگینی در فهرست زرین این شرکت میدرخشد. شایان توجه است نظارت ویژه،نبوغ طراحی و اجرای نما از مهمترین نقاط تمایز این شرکت می باشد.
