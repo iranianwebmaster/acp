@@ -1,47 +1,48 @@
 <footer class='c-footer'>
-  <div class='o-grid'>
+    <div class='o-grid'>
 
-    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-      <p class='u-font-medium'>Tags</p>
+        <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
+            <p class='u-font-medium'>برچسب‌ها</p>
 
-      <ul class='c-footer-list o-plain-list'>
-        {% for tag in site.tags %}
-          <li><a href='{{ site.baseurl }}/tag/{{ tag[0] }}'>{{ tag[0] }}</a><li>
-        {% endfor %}
-      </ul>
-    </div>
-
-    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-      <p class='u-font-medium'>Navigation</p>
-
-      <ul class='c-footer-list o-plain-list'>
-        {% include navigation.html %}
-      </ul>
-    </div>
-
-    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
-      <p class='u-font-medium'>Newsletter</p>
-
-      {% include subscribe-form.html %}
-    </div>
-
-    <div class='o-grid__col o-grid__col--full'>
-      <div class='c-footer__bottom'>
-        <div class='o-grid'>
-
-          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
-            <div class='u-font-tiny c-footer__copyright'>
-              {{ site.time | date: '%Y' }} {{ site.title }}
-            </div>
-          </div>
-
-          <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
-            {% include social-icons.html %}
-          </div>
-
+            <ul class='c-footer-list o-plain-list'>
+                {% for tag in site.tags %}
+                <li><a href='{{ site.baseurl }}/tag/{{ tag[0] }}'>{{ tag[0] }}</a>
+                    <li>
+                        {% endfor %}
+            </ul>
         </div>
-      </div>
-    </div>
 
-  </div>
+        <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
+            <p class='u-font-medium'>فهرست</p>
+
+            <ul class='c-footer-list o-plain-list'>
+                {% include navigation.html %}
+            </ul>
+        </div>
+
+        <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l'>
+            <p class='u-font-medium'>خبرنامه</p>
+
+            {% include subscribe-form.html %}
+        </div>
+
+        <div class='o-grid__col o-grid__col--full'>
+            <div class='c-footer__bottom'>
+                <div class='o-grid'>
+
+                    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
+                        <div class='u-font-tiny c-footer__copyright'>
+                            {{ site.time | date: '%Y' }} {{ site.title }}
+                        </div>
+                    </div>
+
+                    <div class='o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m'>
+                        {% include social-icons.html %}
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
 </footer>
