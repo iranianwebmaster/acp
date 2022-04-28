@@ -113,7 +113,7 @@ tags:
 
 ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title-container">آنچه در این صفحه خواهید خواند
 
-<span class="ez-toc-title-toggle"><a class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"></a></span></div><nav>- [ترموود قیمت](/acp/%d8%aa%d8%b1%d9%85%d9%88%d9%88%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d8%af%db%8c%d9%88%d8%a7%d8%b1-%d8%aa%d8%b1%d8%a7%d8%b3-%da%a9%d9%81-thermowood/#%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D9%82%DB%8C%D9%85%D8%AA "ترموود قیمت")
+<span class="ez-toc-title-toggle"><a class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"></a></span><nav>- [ترموود قیمت](/acp/%d8%aa%d8%b1%d9%85%d9%88%d9%88%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d8%af%db%8c%d9%88%d8%a7%d8%b1-%d8%aa%d8%b1%d8%a7%d8%b3-%da%a9%d9%81-thermowood/#%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D9%82%DB%8C%D9%85%D8%AA "ترموود قیمت")
 - [ترمووود چیست؟](/acp/%d8%aa%d8%b1%d9%85%d9%88%d9%88%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d8%af%db%8c%d9%88%d8%a7%d8%b1-%d8%aa%d8%b1%d8%a7%d8%b3-%da%a9%d9%81-thermowood/#%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF_%DA%86%DB%8C%D8%B3%D8%AA%D8%9F "ترمووود چیست؟")
     - [مزایای ترمووود](/acp/%d8%aa%d8%b1%d9%85%d9%88%d9%88%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d8%af%db%8c%d9%88%d8%a7%d8%b1-%d8%aa%d8%b1%d8%a7%d8%b3-%da%a9%d9%81-thermowood/#%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF "مزایای ترمووود")
         - [انواع رنگ‌های ترمووود](/acp/%d8%aa%d8%b1%d9%85%d9%88%d9%88%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d8%af%db%8c%d9%88%d8%a7%d8%b1-%d8%aa%d8%b1%d8%a7%d8%b3-%da%a9%d9%81-thermowood/#%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D8%B1%D9%86%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF "انواع رنگ‌های ترمووود")
@@ -130,7 +130,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 - [لیست قیمت ترموود](/acp/%d8%aa%d8%b1%d9%85%d9%88%d9%88%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d8%af%db%8c%d9%88%d8%a7%d8%b1-%d8%aa%d8%b1%d8%a7%d8%b3-%da%a9%d9%81-thermowood/#%D9%84%DB%8C%D8%B3%D8%AA_%D9%82%DB%8C%D9%85%D8%AA_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF "لیست قیمت ترموود")
     - - [نحوه نگهداری از نمای ترموود](/acp/%d8%aa%d8%b1%d9%85%d9%88%d9%88%d8%af-%d9%82%db%8c%d9%85%d8%aa-%d8%af%db%8c%d9%88%d8%a7%d8%b1-%d8%aa%d8%b1%d8%a7%d8%b3-%da%a9%d9%81-thermowood/#%D9%86%D8%AD%D9%88%D9%87_%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C_%D8%A7%D8%B2_%D9%86%D9%85%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF "نحوه نگهداری از نمای ترموود")
 
-</nav></div>## <span class="ez-toc-section" id="%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D9%82%DB%8C%D9%85%D8%AA"></span>ترموود قیمت<span class="ez-toc-section-end"></span>
+</nav>##  id="%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D9%82%DB%8C%D9%85%D8%AA"></span>ترموود قیمت<span></span>
 
 ترموود قیمت
 
@@ -144,9 +144,9 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![لیست قیمت ترمووود](/acp/wp-content/uploads/2022/04/thermowood-price-list.webp)](/acp/wp-content/uploads/2022/04/thermowood-price-list.webp)عکس نمای چوب ترمو
 
-</div>ترمووود قیمت
+ترمووود قیمت
 
-## <span class="ez-toc-section" id="%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF_%DA%86%DB%8C%D8%B3%D8%AA%D8%9F"></span>ترمووود چیست؟<span class="ez-toc-section-end"></span>
+##  id="%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF_%DA%86%DB%8C%D8%B3%D8%AA%D8%9F"></span>ترمووود چیست؟<span></span>
 
 نوع خاصی از چوب که به‌ دلیل فراوری توسط مکانیزم پیشرفته‌ی حرارتی ، نسبت به چوب‌های دیگر ، دارای استحکام و ماندگاری بیشتری است.به صورت کلی در تولید این محصول از مواد شیمیایی استفاده نمی گردد.ترمووود همچنین در مقابل کپک زدگی ، جویده شدن توسط حشرات موذی ، موریانه، ساس و قارچ بسیار مقاوم می‌باشد.به غیر از موارد بالا، از نظر رنگ و شکل ، ثبات بی همتایی دارد به طوری که سالیان سال زیبایی خود را از دست نمی دهد.
 
@@ -158,7 +158,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![ترموود قیمت](/acp/wp-content/uploads/2022/04/ترموود.webp)](/acp/wp-content/uploads/2022/04/ترموود.webp)عکس چوب ترمو
 
-</div>ترموود از نظر ابعادی پایدار است و در برابر پوسیدگی مقاوم و بدون رزین است. می‌توان از آن در داخل یا خارج از ساختمان در هر شرایط آب و هوایی استفاده نمود. <abbr title="ترمووود">ترموود</abbr> یک محصول طبیعی غیر سمی می‌باشد که به راحتی نصب و راه اندازی می‌شود.
+ترموود از نظر ابعادی پایدار است و در برابر پوسیدگی مقاوم و بدون رزین است. می‌توان از آن در داخل یا خارج از ساختمان در هر شرایط آب و هوایی استفاده نمود. <abbr title="ترمووود">ترموود</abbr> یک محصول طبیعی غیر سمی می‌باشد که به راحتی نصب و راه اندازی می‌شود.
 
 <abbr title="ترمووود">ترموود</abbr> یک انتخاب پایدار و بادوام برای نمای ساختمان تابلو مغازه ، سایه بان خورشیدی و سایر کاربردهای خارجی و فضای داخلی است. به دلیل اینکه از چوب 100% بدون رزین برخوردار است ، برای داخل سونا نیز مناسب و مورد استفاده قرار می گیرد.
 
@@ -168,7 +168,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![thermowood sauna](/acp/wp-content/uploads/2022/04/ترموود-سونا.webp)](/acp/wp-content/uploads/2022/04/ترموود-سونا.webp)عکس سونا با چوب ترمو
 
-</div>چوب ترمو اصلاح شده از نظر حرارت و دارای رنگ قهوه ای زیبایی است که پس از رنگ آمیزی در برابر اشعه ماوراء بنفش محافظت می‌کند و تا درصدی <abbr title="ترمووود">ترموود</abbr> را در مقابل شرایط جوی مقاوم تر می‌کند.
+چوب ترمو اصلاح شده از نظر حرارت و دارای رنگ قهوه ای زیبایی است که پس از رنگ آمیزی در برابر اشعه ماوراء بنفش محافظت می‌کند و تا درصدی <abbr title="ترمووود">ترموود</abbr> را در مقابل شرایط جوی مقاوم تر می‌کند.
 
 ترموود دیوار
 
@@ -176,7 +176,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
 ترموود قیمت
 
-### <span class="ez-toc-section" id="%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>مزایای ترمووود<span class="ez-toc-section-end"></span>
+###  id="%D9%85%D8%B2%D8%A7%DB%8C%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>مزایای ترمووود<span></span>
 
 - در مقایسه با متریال های مشابه و هم‌تراز وزن کم و سبکی دارد ( در اثر کاهش رطوبت چوب، وزن آن نیز کم می‌گردد. همین موضوع ترموود را به یکی از مصالح سبک و پرکاربرد تبدیل می‌کند که استفاده از آن در هر قسمت از ساختمان، می‌تواند بار مرده‌ی وارده را کمتر نماید.
 - در حد استاندارد نیازهای طبیعی انسان ، رطوبت محیط را حفظ می‌کند ( عدم واکنش در برابر رطوبت : بعد از این که چوب در معرض دمای بالا قرار گرفت و تبدیل به ترمووود شد ، رطوبت آن به 4 تا 63 درصد می‌رسد. در واقع رطوبت ترموود ، نصف چوب طبیعی است و این ، عاملی برای داشتن عمر طولانی‌تر به حساب می‌آید.
@@ -202,11 +202,11 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
     
       ![انواع چوب ترمووود](/acp/wp-content/uploads/2022/04/انواع-چوب-ترمووود.webp)](/acp/wp-content/uploads/2022/04/انواع-چوب-ترمووود.webp)عکس انواع چوب ترمووود
     
-    </div>
+    
 
 چوب فنلاندی از درخت‌های کاج و صنوبر تولید می‌شود که انواع مختلفی هم دارد. اما نکته‌ای که هنگام خرید آن بیشتر مورد توجه قرار می‌گیرد ، تنوع رنگ آن است.
 
-#### <span class="ez-toc-section" id="%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D8%B1%D9%86%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>انواع رنگ‌های ترمووود<span class="ez-toc-section-end"></span>
+####  id="%D8%A7%D9%86%D9%88%D8%A7%D8%B9_%D8%B1%D9%86%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>انواع رنگ‌های ترمووود<span></span>
 
 1. زرد برنزی
 2. گردویی
@@ -219,7 +219,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![مزایای چوب ترموود](/acp/wp-content/uploads/2022/04/مزایای-ترمووود.webp)](/acp/wp-content/uploads/2022/04/مزایای-ترمووود.webp)عکس چوب ترمو | ابزار خورده جهت نصب
 
-</div>## <span class="ez-toc-section" id="%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF_%DA%86%D9%88%D8%A8_%D8%AA%D8%B1%D9%85%D9%88"></span>کاربرد چوب ترمو<span class="ez-toc-section-end"></span>
+##  id="%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF_%DA%86%D9%88%D8%A8_%D8%AA%D8%B1%D9%85%D9%88"></span>کاربرد چوب ترمو<span></span>
 
 امروزه مصالح نوین چوبی نظیر <abbr title="ترمووود">ترموود</abbr> باعث شده تا معماری مدرن و نوین در سازه ، جانی دوباره گرفته و به جسم سرد ساختمان‌ها روحی گرم ببخشد.
 
@@ -244,7 +244,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![کاربرد های چوب ترمو](/acp/wp-content/uploads/2022/04/کاربرد-چوب-ترمو.webp)](/acp/wp-content/uploads/2022/04/کاربرد-چوب-ترمو.webp)نمای ترموود زیبا
 
-</div>### <span class="ez-toc-section" id="%D9%85%D8%B9%D8%A7%DB%8C%D8%A8_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>معایب ترمووود<span class="ez-toc-section-end"></span>
+###  id="%D9%85%D8%B9%D8%A7%DB%8C%D8%A8_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>معایب ترمووود<span></span>
 
 - گران و مقرون به صرفه نبودن
 - تسریع در نابودی محیط زیست
@@ -254,7 +254,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![معایب نمای ترموود](/acp/wp-content/uploads/2022/04/معایب-ترموود.webp)](/acp/wp-content/uploads/2022/04/معایب-ترموود.webp)عکس پارکت با چوب ترمو
 
-</div>#### <span class="ez-toc-section" id="%D8%B1%D9%86%DA%AF_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>رنگ ترمووود<span class="ez-toc-section-end"></span>
+####  id="%D8%B1%D9%86%DA%AF_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF"></span>رنگ ترمووود<span></span>
 
 به دلیل زیبایی و جلای چوب و افزایش مقاومت ترموود در مقابل شرایط نامساعد جوی در فضای باز زیر آفتاب و… و همچنین نمای داخل ساختمان ، از رنگ چوب ترمو استفاده می‌شود.
 
@@ -270,7 +270,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![رنگ زدن چوب ترمو](/acp/wp-content/uploads/2022/04/رنگ-ترموود.webp)](/acp/wp-content/uploads/2022/04/رنگ-ترموود.webp)رنگ زدن چوب ترمو
 
-</div>#### <span class="ez-toc-section" id="%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D8%AA%D8%A7_%DA%86%D9%87_%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C_%D8%B1%D8%A7_%D8%AA%D8%AD%D9%85%D9%84_%D9%85%DB%8C%E2%80%8C%DA%A9%D9%86%D8%AF%D8%9F"></span>ترموود تا چه حرارتی را تحمل می‌کند؟<span class="ez-toc-section-end"></span>
+####  id="%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D8%AA%D8%A7_%DA%86%D9%87_%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA%DB%8C_%D8%B1%D8%A7_%D8%AA%D8%AD%D9%85%D9%84_%D9%85%DB%8C%E2%80%8C%DA%A9%D9%86%D8%AF%D8%9F"></span>ترموود تا چه حرارتی را تحمل می‌کند؟<span></span>
 
 با توجه به گفته‌‌های تولید کنندگان ترموود ، آنها با استفاده روش‌های خاص و فرآیندهای شیمیایی توانسته‌اند دوام چوب را افزایش دهند. ترموود در واقع چوبی می‌باشد که در غیاب <abbr class="abbr" lang="en" title="O2">اکسیژن</abbr> زیر دما و حرارت بالا بیش از 180 درجه سانتی گراد دستخوش تغییراتی می‌گردد. در حقیقت این حرارت داده شده باعث استحکام و تقویت موادی که منافظ سلول‌های چوب را می‌سازند می‌گردد.
 
@@ -284,13 +284,13 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![سونا چوب](/acp/wp-content/uploads/2022/04/استخر-ترموود-سونا.webp)](/acp/wp-content/uploads/2022/04/استخر-ترموود-سونا.webp)عکس نمای سونا با چوب
 
-</div>ترمووود در اثر مقاومت بالا در برابر در برابر آفتاب و رطوبت بیشتر در نمای ساختمان استفاده می‌گردد. البته همان طور که در بالا هم به آن اشاره کردیم، می‌توان از ترمووود در سونا هم به استفاده نمود.
+ترمووود در اثر مقاومت بالا در برابر در برابر آفتاب و رطوبت بیشتر در نمای ساختمان استفاده می‌گردد. البته همان طور که در بالا هم به آن اشاره کردیم، می‌توان از ترمووود در سونا هم به استفاده نمود.
 
 ترموود قیمت
 
 ترموود ارزان قیمت
 
-### <span class="ez-toc-section" id="%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF_%D8%B3%D8%A7%D8%AE%D8%AA_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF_%D8%AF%D8%B1_%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87"></span>فرایند ساخت ترمووود در کارخانه<span class="ez-toc-section-end"></span>
+###  id="%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF_%D8%B3%D8%A7%D8%AE%D8%AA_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D9%88%D8%AF_%D8%AF%D8%B1_%DA%A9%D8%A7%D8%B1%D8%AE%D8%A7%D9%86%D9%87"></span>فرایند ساخت ترمووود در کارخانه<span></span>
 
 با به کارگیری از گرما دهی در شرایط زمانی و رطوبتی متناسب و مشخص، مقاومت چوب را افزایش می‌دهند به دنبال آن ، تغییر ساختار شیمیایی چوب استحکام و مقاوت چوب را در مقابل پوسیدگی بیشتر می‌کند. این عملیات به طور کلی در 3 مرحله انجام می‌گردد که در زیر اشاره می نماییم.
 
@@ -300,7 +300,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![کارخانه ترموود](/acp/wp-content/uploads/2022/04/کارخانه-ترموود.webp)](/acp/wp-content/uploads/2022/04/کارخانه-ترموود.webp)کارخانه چوب ترموود
 
-</div>در تمامی این فرآیند از بخار برای جلوگیری از سوختن و یا ترک برداشتن چوب استفاده می‌شود. همچنین در تمامی فرآیند کنترل مداوم صورت می‌گیرد الی به هیچ عنوان چوب نسوزد یا به زغال تبدیل نگردد.در ادامه‌ی کار پس از گذشت 24 ساعت از شروع بخار دهی و گرمادهی، دمای مخزن را آرام آرام کم می‌کنند که این کاهش دما با استفاده از آب‌پاشی صورت می‌گیرد. در نهایت ترموود پس از گذشت 42 ساعت آماده می‌باشد.
+در تمامی این فرآیند از بخار برای جلوگیری از سوختن و یا ترک برداشتن چوب استفاده می‌شود. همچنین در تمامی فرآیند کنترل مداوم صورت می‌گیرد الی به هیچ عنوان چوب نسوزد یا به زغال تبدیل نگردد.در ادامه‌ی کار پس از گذشت 24 ساعت از شروع بخار دهی و گرمادهی، دمای مخزن را آرام آرام کم می‌کنند که این کاهش دما با استفاده از آب‌پاشی صورت می‌گیرد. در نهایت ترموود پس از گذشت 42 ساعت آماده می‌باشد.
 
 چوب‌های ترمو با دو علامت اختصاری D و S نسبت به هم شناخته می‌شوند. در گروه S تغییر ابعاد با توجه به مقدار 6 تا 8 درصد خواهد داشت و همچنین چوب‌های سری D بین 5 تا 6 درصد امکان دارد که تغییر ابعاد و یا تورم داشته باشد.
 
@@ -314,7 +314,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
 در مرحله‌ی حرارت دادن چوب، این فرایند موجب شکست [سلولز](https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%88%D9%84%D8%B2) و تجزیه اسید و خروج صمغ و رزین چوب شده تا شرایط رشد قارچ و حشرات و ریز ارگانیسم‌ها از بین برود که این خود یکی از مزایای ترموود در فناوری این نوع چوب است.
 
-#### <span class="ez-toc-section" id="%DA%86%DA%AF%D9%88%D9%86%D9%87_%D9%86%D9%85%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D9%85%D9%86%D8%A7%D8%B3%D8%A8_%D9%88_%D8%AE%D9%88%D8%A8_%D8%B1%D8%A7_%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5_%D8%AF%D9%87%DB%8C%D9%85%D8%9F"></span>چگونه نمای ترموود مناسب و خوب را تشخیص دهیم؟<span class="ez-toc-section-end"></span>
+####  id="%DA%86%DA%AF%D9%88%D9%86%D9%87_%D9%86%D9%85%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D9%85%D9%86%D8%A7%D8%B3%D8%A8_%D9%88_%D8%AE%D9%88%D8%A8_%D8%B1%D8%A7_%D8%AA%D8%B4%D8%AE%DB%8C%D8%B5_%D8%AF%D9%87%DB%8C%D9%85%D8%9F"></span>چگونه نمای ترموود مناسب و خوب را تشخیص دهیم؟<span></span>
 
 1. <span id="1_trakm_trmwwwd">تراکم ترموود را در نظر بگیرید ( به هر میزان که تراکم چوب بالاتر باشد ، کیفیت چوب ترمو بهتر است )</span>
 2. توجه به زیرسازی با به کاربردن پروفیل های نوع سبک و عرض بیشتر از 2 سانتیمتر
@@ -322,7 +322,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 4. <span id="4_brrsy_nmwnh_prwzhhhay_ajra_shdh_twst_rdh_knndhy_trmwwwd">قبل از خرید چوب ترمو ، نمونه پروژه‌های اجرا شده توسط عرضه کننده‌ی ترموود را بررسی کنید</span>
 5. رضایت مشتریان را بررسی کنید
 
-## <span class="ez-toc-section" id="%D9%86%D9%85%D8%A7%DB%8C_%D8%AF%D8%A7%D8%AE%D9%84%DB%8C_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%D8%A8%D8%A7_%DA%86%D9%88%D8%A8_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>نمای داخلی ساختمان با چوب ترموود<span class="ez-toc-section-end"></span>
+##  id="%D9%86%D9%85%D8%A7%DB%8C_%D8%AF%D8%A7%D8%AE%D9%84%DB%8C_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%D8%A8%D8%A7_%DA%86%D9%88%D8%A8_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>نمای داخلی ساختمان با چوب ترموود<span></span>
 
 ظاهر زیبای چوب ترمو و طبیعی بودن آن و همچنین القای حس آرامش از دلایل مهم انتخاب این محصول توسط مشتریان برای دکوراسیون داخلی خانه می باشد.
 
@@ -330,7 +330,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
 ترموود ارزان قیمت
 
-#### <span class="ez-toc-section" id="%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%87%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D8%AF%D8%B1_%D9%86%D9%85%D8%A7%DB%8C_%D8%AF%D8%A7%D8%AE%D9%84%DB%8C_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86"></span>کاربردهای ترموود در نمای داخلی ساختمان<span class="ez-toc-section-end"></span>
+####  id="%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF%D9%87%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF_%D8%AF%D8%B1_%D9%86%D9%85%D8%A7%DB%8C_%D8%AF%D8%A7%D8%AE%D9%84%DB%8C_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86"></span>کاربردهای ترموود در نمای داخلی ساختمان<span></span>
 
 1. برای زمین بازی استفاده می‌گردد
 2. برای پارکت‌ها و کفپوش
@@ -340,7 +340,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![نمای داخلی ساختمان با چوب ترموود](/acp/wp-content/uploads/2022/04/نمای-داخلی-ساختمان-با-چوب-ترموود.webp)](/acp/wp-content/uploads/2022/04/نمای-داخلی-ساختمان-با-چوب-ترموود.webp)عکس نمای داخلی ساختمان با چوب دیوار ترموود
 
-</div>## <span class="ez-toc-section" id="%D9%86%D9%85%D8%A7%DB%8C_%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%D8%A8%D8%A7_%DA%86%D9%88%D8%A8_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>نمای خارجی ساختمان با چوب ترموود<span class="ez-toc-section-end"></span>
+##  id="%D9%86%D9%85%D8%A7%DB%8C_%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C_%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86_%D8%A8%D8%A7_%DA%86%D9%88%D8%A8_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>نمای خارجی ساختمان با چوب ترموود<span></span>
 
 با توجه به گسترش ذوق وسلایق معماران در طراحی مدرن ، کاربرد ترموود در نمای خارجی ساختمان‌ طرفداران زیادی پیدا کرده است. در گذشته و در مناطقی که درختان بیشتری وجود داشت از چوب جهت ساخت خانه استفاده می‌کردند، ولی الان با بازگشت استفاده از چوب در طراحی معماری باعث شده است که معماران با تلفیقی از طراحی مدرنیزه و گذشته، گرمای بیشتری به نمای داخلی و خارجی ساختمان‌ها بدهند.
 
@@ -358,9 +358,9 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![نمای ترموود](/acp/wp-content/uploads/2022/04/نمای-ترموود.webp)](/acp/wp-content/uploads/2022/04/نمای-ترموود.webp)نمای ترموود
 
-</div>معمولا محصولات چوبی که برای سقف یا بام ساختمان استفاده می‌شود، [چوب سدر](https://fa.wikipedia.org/wiki/%D8%B3%D8%AF%D8%B1) می‌باشد به این علت که چوب سدر به طور طبیعی در مقابل آفتاب و بارندگی از سایرین چوب‌ها مقاوم‌تر است. البته از روش‌های مختلفی می‌توان برای افزایش مقاومت و ماندگاری چوب استفاده نمود.
+معمولا محصولات چوبی که برای سقف یا بام ساختمان استفاده می‌شود، [چوب سدر](https://fa.wikipedia.org/wiki/%D8%B3%D8%AF%D8%B1) می‌باشد به این علت که چوب سدر به طور طبیعی در مقابل آفتاب و بارندگی از سایرین چوب‌ها مقاوم‌تر است. البته از روش‌های مختلفی می‌توان برای افزایش مقاومت و ماندگاری چوب استفاده نمود.
 
-## <span class="ez-toc-section" id="%D9%87%D8%B2%DB%8C%D9%86%D9%87_%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>هزینه اجرای ترموود<span class="ez-toc-section-end"></span>
+##  id="%D9%87%D8%B2%DB%8C%D9%86%D9%87_%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>هزینه اجرای ترموود<span></span>
 
 برای برآورد هزینه اجرای ترموود باید به نکات زیر توجه کنید :
 
@@ -378,7 +378,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
   ![زیرسازی ترموود پارکت](/acp/wp-content/uploads/2022/04/زیرسازی-ترموود-پارکت.webp)](/acp/wp-content/uploads/2022/04/زیرسازی-ترموود-پارکت.webp)عکس زیرسازی کفپوش با چوب ترمو
 
-</div>در حالت عادی ، جهت زیرسازی فلزی نمای ترموود از قوطی 40 در 40 استفاده می‌شود. فاصله شبکه های فلزی در زیر نمای ترموود نیز نباید کمتر از 50 سانتی متر باشد.اگر نمای سیمانی زیر نمای <abbr class="abbr" lang="en" title="thermowood">ترمووود </abbr>، سیمان صاف با ضخامت بیشتر از 4 سانتیمتر داشته باشد، زیرسازی فلزی لازم ندارد و می‌توان چوب‌های زیرسازی را مستقیما بر روی سیمان پیچ و رول پلاک نمود. در نتیجه هزینه کاهش پیدا می‌کند.
+در حالت عادی ، جهت زیرسازی فلزی نمای ترموود از قوطی 40 در 40 استفاده می‌شود. فاصله شبکه های فلزی در زیر نمای ترموود نیز نباید کمتر از 50 سانتی متر باشد.اگر نمای سیمانی زیر نمای <abbr class="abbr" lang="en" title="thermowood">ترمووود </abbr>، سیمان صاف با ضخامت بیشتر از 4 سانتیمتر داشته باشد، زیرسازی فلزی لازم ندارد و می‌توان چوب‌های زیرسازی را مستقیما بر روی سیمان پیچ و رول پلاک نمود. در نتیجه هزینه کاهش پیدا می‌کند.
 
 ترموود تبریز
 
@@ -388,7 +388,7 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 
 طرح نمای چوب ترمو و متراژ پروژه دو عامل مهم در مشخص کردن دستمزد اجرای نمای <abbr class="abbr" lang="en" title="thermowood">ترمووود </abbr>هستند، به طبع هر چقدر طرح آسانتر و متراژ بیشتری جهت اجرای نمای ترموود داشته باشیم ، دستمزد کمتر می‌شود.
 
-## <span class="ez-toc-section" id="%D9%84%DB%8C%D8%B3%D8%AA_%D9%82%DB%8C%D9%85%D8%AA_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>لیست قیمت ترموود<span class="ez-toc-section-end"></span>
+##  id="%D9%84%DB%8C%D8%B3%D8%AA_%D9%82%DB%8C%D9%85%D8%AA_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>لیست قیمت ترموود<span></span>
 
 ترمووود قیمت
 
@@ -400,10 +400,10 @@ ez-toc-v2_0_17 counter-hierarchy ez-toc-grey" id="ez-toc-container">ez-toc-title
 | 4 | تهیه چوب زیرسازی | [تماس بگیرید](tel:09122448082) |
 | 5 | دستمزد اجرای نمای ترمووود و زیر سازی فلزی | [تماس بگیرید](tel:09122448082) |
 
-elementor-element elementor-element-2e0a1c2 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="2e0a1c2" data-widget_type="heading.default">elementor-widget-container">#### <span class="ez-toc-section" id="%D9%86%D8%AD%D9%88%D9%87_%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C_%D8%A7%D8%B2_%D9%86%D9%85%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>نحوه نگهداری از نمای ترموود<span class="ez-toc-section-end"></span>
+elementor-element elementor-element-2e0a1c2 elementor-widget elementor-widget-heading" data-element_type="widget" data-id="2e0a1c2" data-widget_type="heading.default">elementor-widget-container">####  id="%D9%86%D8%AD%D9%88%D9%87_%D9%86%DA%AF%D9%87%D8%AF%D8%A7%D8%B1%DB%8C_%D8%A7%D8%B2_%D9%86%D9%85%D8%A7%DB%8C_%D8%AA%D8%B1%D9%85%D9%88%D9%88%D8%AF"></span>نحوه نگهداری از نمای ترموود<span></span>
 
-</div></div>elementor-element elementor-element-0414f3c elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="0414f3c" data-widget_type="text-editor.default">elementor-widget-container">elementor-text-editor elementor-clearfi برای نگهداری از نمای ترمووود و حفاظت از تایل‌های چوبی در برابر نور خورشید و اشعه ماورای بنفش باید از موادی مانند: واکس ، لاک الکل با پایه آبی ، رنگ و روغن استفاده کنید.
+elementor-element elementor-element-0414f3c elementor-widget elementor-widget-text-editor" data-element_type="widget" data-id="0414f3c" data-widget_type="text-editor.default">elementor-widget-container">elementor-text-editor elementor-clearfi برای نگهداری از نمای ترمووود و حفاظت از تایل‌های چوبی در برابر نور خورشید و اشعه ماورای بنفش باید از موادی مانند: واکس ، لاک الکل با پایه آبی ، رنگ و روغن استفاده کنید.
 
 ترموود قیمت
 
-</div></div></div>[قیمت نمای کامپوزیت](/acp/%d9%82%db%8c%d9%85%d8%aa-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%87%d8%b1-%d9%85%d8%aa%d8%b1-%d9%85%d8%b1%d8%a8%d8%b9-%d9%88%d8%b1/) [عکس نمای کامپوزیت ساختمان](/acp/%d8%b9%da%a9%d8%b3-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d9%85%d8%b3%da%a9%d9%88%d9%86%db%8c-%d9%88%db%8c%d9%84%d8%a7/) [اجرای نمای کامپوزیت در تهران](/acp/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%af%d8%b1-%d8%aa%d9%87%d8%b1%d8%a7%d9%86-%d9%82%db%8c%d9%85%d8%aa-%d9%85%d8%aa%d8%b1/) [قیمت ورق کامپوزیت](/acp/%d9%82%db%8c%d9%85%d8%aa-%d9%88%d8%b1%d9%82-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d9%81%d8%b1%d9%88%d8%b4-%d8%ae%d8%b1%db%8c%d8%af-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d8%b5%d9%81%d9%87/) [اجرای نمای کامپوزیت](/acp/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%a7%d8%b5%d9%81%d9%87%d8%a7%d9%86/)
+[قیمت نمای کامپوزیت](/acp/%d9%82%db%8c%d9%85%d8%aa-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%87%d8%b1-%d9%85%d8%aa%d8%b1-%d9%85%d8%b1%d8%a8%d8%b9-%d9%88%d8%b1/) [عکس نمای کامپوزیت ساختمان](/acp/%d8%b9%da%a9%d8%b3-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d9%85%d8%b3%da%a9%d9%88%d9%86%db%8c-%d9%88%db%8c%d9%84%d8%a7/) [اجرای نمای کامپوزیت در تهران](/acp/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%af%d8%b1-%d8%aa%d9%87%d8%b1%d8%a7%d9%86-%d9%82%db%8c%d9%85%d8%aa-%d9%85%d8%aa%d8%b1/) [قیمت ورق کامپوزیت](/acp/%d9%82%db%8c%d9%85%d8%aa-%d9%88%d8%b1%d9%82-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d9%81%d8%b1%d9%88%d8%b4-%d8%ae%d8%b1%db%8c%d8%af-%d8%a7%d9%86%d9%88%d8%a7%d8%b9-%d8%a7%d8%b5%d9%81%d9%87/) [اجرای نمای کامپوزیت](/acp/%d8%a7%d8%ac%d8%b1%d8%a7%db%8c-%d9%86%d9%85%d8%a7%db%8c-%da%a9%d8%a7%d9%85%d9%be%d9%88%d8%b2%db%8c%d8%aa-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%a7%d8%b5%d9%81%d9%87%d8%a7%d9%86/)
